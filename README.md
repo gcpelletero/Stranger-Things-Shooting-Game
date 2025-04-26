@@ -19,7 +19,8 @@ Then go inside the project folder:
 ## ⚙️ 3. Compile the Java Files
 Compile the game source code using the JavaFX libraries.
 ```javac --class-path "D:/Downloads/openjfx-24.0.1_windows-x64_bin-sdk/javafx-sdk-24.0.1/lib/*" main/*.java strangerthings/*.java```
-🔵 Change the path if your JavaFX SDK is saved somewhere else!
+
+🔵 Change the path if your JavaFX SDK is saved somewhere else.
 
 ## 🚀 4. Run the Game
 Finally, run the main game launcher:
@@ -35,13 +36,17 @@ The Game should now open!
 - The game window might take a few seconds to load after running.
 
 ## 🛠️ Troubleshooting
-Problem | Solution
 - ```error: module not found: javafx.controls ```
-Check your ```--module-path``` points to the correct ```javafx-sdk/lib``` folder
+
+    Check your ```--module-path``` points to the correct ```javafx-sdk/lib``` folder
+
 - ```error: package strangerthings does not exist```
-Make sure you're inside the ```src``` folder and compiled all ```.java``` files
+
+    Make sure you're inside the ```src``` folder and compiled all ```.java``` files
+
 - Game not launching 
-Verify that you downloaded both JDK and JavaFX properly
+
+    Verify that you downloaded both JDK and JavaFX properly
 
 
 
