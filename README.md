@@ -6,8 +6,8 @@
 - **JavaFX SDK version 24.0.1**
 Download JavaFX 24.0.1 here
 
-✅ Make sure to extract the JavaFX SDK ZIP file somewhere you can find it.
-Example path: ```D:\Downloads\openjfx-24.0.1_windows-x64_bin-sdk\javafx-sdk-24.0.1\```
+    ✅ Make sure to extract the JavaFX SDK ZIP file somewhere you can find it.
+    Example path: ```D:\Downloads\openjfx-24.0.1_windows-x64_bin-sdk\javafx-sdk-24.0.1\```
 
 ## 📂 2. Clone the Repository
 Open a terminal or PowerShell and run:
